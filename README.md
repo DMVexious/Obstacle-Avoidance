@@ -21,7 +21,7 @@ This repository contains the Arduino code for an obstacle-avoidance robot using 
 2. Connect the **Arduino board** to your computer using a USB cable.
 3. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/obstacle-avoidance-robot.git
+   git clone https://github.com/DMVexious/Obstacle-Avoidance.git
    ```
 4. Open `New.ino` in Arduino IDE.
 5. Select the correct **Board** and **Port** from the "Tools" menu.
